@@ -11,3 +11,4 @@ update readme on rebase repository for a rebase practice
 update readme on rebase repository for a merge conflict
 update readme on remote repository for a rebase practice
 update readme on main branch for a stash
+update readme on main branch for a tracked stash
